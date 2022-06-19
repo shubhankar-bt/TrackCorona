@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
         stateList = ArrayList<StateModel>()
 
         getStateInfo()
-        Toast.makeText(this,"VYVYvhgugygtfttyguhh", Toast.LENGTH_LONG).show()
+       // Toast.makeText(this,"VYVYvhgugygtfttyguhh", Toast.LENGTH_LONG).show()
 
     }
 
